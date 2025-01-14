@@ -27,3 +27,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 
 ##  [Bottom Sheet](https://github.com/gorhom/react-native-bottom-sheet?tab=readme-ov-file)
+
+   ```bash
+    npx expo install react-native-reanimated react-native-gesture-handler
+    npm install @gorhom/bottom-sheet
+   ```

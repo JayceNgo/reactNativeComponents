@@ -5,6 +5,7 @@ export default function Layout() {
     <Stack>
       <Stack.Screen name="index" options={{headerShown:false}}/>
       <Stack.Screen name="bouncyCheckboxScreen" options={{headerShown:false}}/>
+        <Stack.Screen name="bottomSheet" options={{headerShown:false}}/>
     </Stack>
   );
 }

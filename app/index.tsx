@@ -9,6 +9,9 @@ const Home = () => {
             <Link href="/bouncyCheckboxScreen">
                 Bouncy CheckBox
             </Link>
+            <Link href="/bottomSheetScreen">
+                 Bottom Sheet
+            </Link>
         </View>
     );
 };
